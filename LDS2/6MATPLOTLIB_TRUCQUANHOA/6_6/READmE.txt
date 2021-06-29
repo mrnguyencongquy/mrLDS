@@ -1,0 +1,15 @@
+TreeMap - Waffle Chart
+Posted Jan 23
+Thực hành vẽ TreeMap và Waffle Chart với các yêu cầu trong file đính kèm.
+
+Part 1: TreeMap
+• Cho dữ liệu là danh sách ứng viên và số phiếu bầu trong cuộc bầu cử tổng thống Mỹ năm 2016.
+Hillary Clinton Donald Trump Others
+Virginia 1.981.473 1.769.443 233.715
+Maryland 1.677.928 943.169 160.349
+West Virginia 188.794 489.371 36.258
+• Vẽ 3 TreeMap thể hiện tỷ lệ số phiếu bầu lần lượt cho ứng viên ở Virginia, Maryland và West Virginia
+
+Part 2: Waffle Chart
+• Tính tổng số phiếu bầu của từng ứng viên ở cả 3 khu vực
+• Vẽ Waffle Chart thể hiện tỷ lệ số phiếu bầu tổng cho từng ứng viên
